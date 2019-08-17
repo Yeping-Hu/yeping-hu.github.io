@@ -25,7 +25,7 @@ My research goal is to develop reliable prediction algorithms that can be used o
 
 ## Decision Making
 
-![](/images/merge_new.jpg | width=100){: .align-left}
+![](/images/merge_new.jpg =100x100){: .align-left}
 Something about the first picture.
 {:style="clear: left"}
 
