@@ -25,7 +25,9 @@ My research goal is to develop reliable prediction algorithms that can be used o
 
 ## Decision Making
 
-![Decision Making](/images/merge_new.jpg)
+<img style="float: right;" src="/images/merge_new.jpg">
+
+aaaaa
 
 
 
