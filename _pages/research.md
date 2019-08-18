@@ -25,9 +25,10 @@ My research goal is to develop reliable prediction algorithms that can be used o
 
 ## Decision Making
 
-![](/images/merge_new.jpg){width=50%}{: .align-left}
-Something about the first picture.
-{:style="clear: left"}
+<img style="float: left; margin-right: 40px;" src="/images/merge_new.jpg" width="40%">
+- This is a image represent decision making
+
+  <br clear="left"/>
 
 
 
