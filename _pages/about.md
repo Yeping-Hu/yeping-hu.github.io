@@ -14,20 +14,16 @@ My research interests include **behavior prediction**, **decision making** and *
 
 ## Education
 
-<img style="float: left; margin-right: 40px;" src="/images/UCB.jpg" width="10%">
-
+<img style="float: left; margin-right: 50px" src="/images/UCB.jpg" width="15%">
 - **Ph.D. — University of California, Berkeley, 2021 (expected)**
   - Major: Control          
   - Minor: Machine Learning, Optimization
-
 <br clear="left"/>
 
-<img style="float: left; margin-right: 40px;" src="/images/UIUC.jpg" width="10%">
-
+<img style="float: left; margin-right: 50px;" src="/images/UIUC.jpg" width="15%">
 - **B.S. — University of Illinois at Urbana-Champaign, 2016**
   - Major: Mechanical Engineering
   - Minor: Electrical Engineering
-
 <br clear="left"/>
 
 ## Recent News
