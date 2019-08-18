@@ -190,6 +190,8 @@ GEM
       jekyll (~> 3.3)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
+    jekyll-widgets (0.1.2)
+      jekyll (~> 3.3)
     jemoji (0.10.2)
       gemoji (~> 3.0)
       html-pipeline (~> 2.2)
@@ -249,6 +251,7 @@ DEPENDENCIES
   hawkins
   jekyll-feed
   jekyll-sitemap
+  jekyll-widgets
 
 BUNDLED WITH
    2.0.2
