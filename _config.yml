@@ -8,7 +8,7 @@ github: [metadata]
 # Site Settings
 locale                   : "en-US"
 title                    : "Yeping's Website"
-title_separator          : "-"
+title_separator          : "Yeping Hu's Homepage - Ph.D student at UC Berkeley"
 name                     : &name "Yeping Hu"
 description              : &description "Graduate Student at University of California Berkeley"
 url                      : https://yeping-hu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -67,7 +67,7 @@ og_image                 :  # Open Graph/Twitter default site image
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  name                   : Yeping Hu's Homepage # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 
