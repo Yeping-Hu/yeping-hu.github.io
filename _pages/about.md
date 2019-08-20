@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year Ph.D. student in the Department of Mechanical Engineering, University of California, Berkeley, CA, USA. I am currently a member of the [Mechanical Systems Control Lab](https://msc.berkeley.edu) and I am advised by [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/). 
+I am a fourth year Ph.D. student in the Department of Mechanical Engineering, University of California, Berkeley, CA, USA. I am currently a member of the [Mechanical Systems Control Lab](https://msc.berkeley.edu){:target="_blank"} and I am advised by [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/){:target="_blank"}. 
 
 My research interests include **behavior prediction**, **decision making** and **motion planning** for intelligent agents such as autonomous vehicles and robots. Approaches that based on artificial neural networks, probabilistic models, optimization, and machine learning are explored and utilized.
 
@@ -28,6 +28,6 @@ My research interests include **behavior prediction**, **decision making** and *
 
 ## Recent News
 
-- 08/2019: My paper accepted by IROS 2019 has been chosen as a finalist for the "Best Paper Award" ! I'll make a presentation at the [IROS conference](https://www.iros2019.org) this November in Macau, China. 
-- 07/2019: Two of my papers are accepted by the [ITSC 2019 conference](https://www.itsc2019.org) ! I'll present them at the conference this October in Auckland, New Zealand .  
+- 08/2019: My paper accepted by IROS 2019 has been chosen as a finalist for the "Best Paper Award" ! I'll make a presentation at the [IROS conference](https://www.iros2019.org){:target="_blank"} this November in Macau, China. 
+- 07/2019: Two of my papers are accepted by the [ITSC 2019 conference](https://www.itsc2019.org){:target="_blank"} ! I'll present them at the conference this October in Auckland, New Zealand .  
 
