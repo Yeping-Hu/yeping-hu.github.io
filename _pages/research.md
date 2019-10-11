@@ -7,7 +7,7 @@ author_profile: true
 
 My research consists of <u>behavioral prediction</u>, <u>motion planning</u> and <u>decision making</u>. 
 
-<div style="text-align: justify">My research goal is to develop reliable prediction algorithms that can be used on the autonomous vehicle or other autonomous agents.  A reliable algorithm, from my perspective, should have the following properties: safe, interpretable, and adaptable. In fact, although motion planning and decision making are lower modules of prediction, it is important to consider the integration and relationships among these modules while formulating the prediction problem. Only in this way, can we make sure that the predicted results are useful and can make positive effects on the lower modules of the autonomous driving system. </div>
+<div style="text-align: justify">My research goal is to develop reliable prediction algorithms that can be used on the autonomous vehicle or other autonomous agents.  A reliable algorithm, from my perspective, should have the following properties: stable, interpretable, and adaptable. In fact, although motion planning and decision making are lower modules of prediction, it is important to consider the integration and relationships among these modules while formulating the prediction problem. Only in this way, can we make sure that the predicted results are useful and can make positive effects on the lower modules of the autonomous driving system. </div>
 
 ## Behavioral Prediction
 
