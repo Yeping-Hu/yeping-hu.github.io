@@ -8,7 +8,7 @@ github: [metadata]
 # Site Settings
 locale                   : "en-US"
 title                    : "Yeping's Website"
-title_separator          : "Yeping Hu's Homepage - Ph.D student at UC Berkeley"
+title_separator          : "Yeping Hu's Homepage - Ph.D candidate at UC Berkeley"
 name                     : &name "Yeping Hu"
 description              : &description "Graduate Student at University of California Berkeley"
 url                      : https://yeping-hu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
