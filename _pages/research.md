@@ -17,14 +17,14 @@ My research consists of <u>behavioral prediction</u>, <u>motion planning</u> and
   Since autonomous vehicles need to navigate in dynamically changing environments, they are expected to make
   accurate predictions regardless of where they are and what driving circumstances they encountered. We propose a scenario-transferable and interaction-aware probabilistic prediction algorithm based on semantic graph reasoning, which predicts behaviors of selected agents. We put forward generic representations for various environment information and utilize them as building blocks to construct their spatio-temporal structural relations. We then take the advantage of these structured representations to develop a flexible and transferable prediction algorithm, where the predictor can be directly used under unforeseen driving circumstances that are completely different from training scenarios. 
 
-- **Incorporate planning-based method into prediction:** [[paper]](https://arxiv.org/pdf/1907.10170.pdf){:target="_blank"}
+- **Incorporate planning-based method into prediction:** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8917105){:target="_blank"}
 
   <img src="../images/CVAE_IRL.png" width="800"  >
 
   <div style="text-align: justify">A deep learning model based on conditional variational auto-encoder (CVAE) and an optimal planning framework based on inverse reinforcement learning (IRL) are dynamically combined to predict both irrational and rational behavior of the vehicles. Benefiting from the the HD semantic information, features for the deep learning model were defined in Frenet frame, which generated much better
     prediction performance in terms of generalization. </div>
 
-- **Explore the multi-modality and interpretability of prediction problems:** [[paper]](https://arxiv.org/pdf/1903.09381.pdf){:target="_blank"}
+- **Explore the multi-modality and interpretability of prediction problems:** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8813796){:target="_blank"}
 
   <img src="../images/latent_space.png" width="800"  >
 
@@ -40,7 +40,7 @@ My research consists of <u>behavioral prediction</u>, <u>motion planning</u> and
 
 ## Decision Making
 
-- **Strategic decision making:** [[paper](https://arxiv.org/pdf/1904.06025.pdf){:target="_blank"}\]\[[video](https://youtu.be/2CTTFHDW1ec){:target="_blank"}\]
+- **Strategic decision making:** [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8968478){:target="_blank"}\]\[[video](https://youtu.be/2CTTFHDW1ec){:target="_blank"}\]
 
   <img src="../images/merge.png" width="800" />
 
