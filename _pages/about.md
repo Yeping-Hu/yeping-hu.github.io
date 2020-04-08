@@ -28,6 +28,7 @@ My research interests include **behavioral prediction**, **decision making** and
 
 ## Recent News
 
+- 04/2020: Check out our [recent work](http://arxiv.org/abs/2004.03053) on scene-transferable predictor using semantic graph reasoning ! 
 - 08/2019: My paper accepted by IROS 2019 has been chosen as a finalist for the "Best Paper Award" ! I'll make a presentation at the [IROS conference](https://www.iros2019.org){:target="_blank"} this November in Macau, China. 
 - 07/2019: Two of my papers are accepted by the [ITSC 2019 conference](https://www.itsc2019.org){:target="_blank"} ! I'll present them at the conference this October in Auckland, New Zealand .  
 

@@ -11,7 +11,9 @@ body, td {
 }
 </style>
 
-<span style="color:505050; background-color: #E2ECDB;">[1]  **Interaction-aware Decision Making with Adaptive Strategies under Merging Scenarios**                             </span><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Y. Hu**, A. Nakhaei, M. Tomizuka, and K. Fujimura <br />*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019 IEEE International Conference on Intelligent Robots and Systems (IROS)* **(Best Paper Award Finalist)**<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\[[paper](https://arxiv.org/pdf/1904.06025.pdf){:target="_blank"}\]\[[video](https://youtu.be/2CTTFHDW1ec){:target="_blank"}\]
+[1] Scenario-Transferable Semantic Graph Reasoning for Interaction-Aware Probabilistic Prediction<br />		**Yeping Hu**, Wei Zhan, and Masayoshi Tomizuka<br />		[[arXiv]](http://arxiv.org/abs/2004.03053){:target="_blank"}
+
+[2]  Interaction-aware Decision Making with Adaptive Strategies under Merging Scenarios<br />		**Yeping Hu**, Alireza Nakhaei, Masayoshi Tomizuka, and Kikuo Fujimura <br />		2019 IEEE International Conference on Intelligent Robots and Systems (IROS)* **(Best Paper Award Finalist)**<br />		[[paper](https://arxiv.org/pdf/1904.06025.pdf){:target="_blank"}\]\[[video](https://youtu.be/2CTTFHDW1ec){:target="_blank"}\]
 
 <span style="color:505050; background-color: #E2ECDB;">[2]  **Generic Prediction Architecture Considering both Rational and Irrational Driving Behaviors**</span><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Y. Hu**, L. Sun, and M. Tomizuka <br />*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019 IEEE Intelligent Transportation Systems (ITSC)* <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[paper](https://arxiv.org/pdf/1907.10170.pdf){:target="_blank"}]
 
