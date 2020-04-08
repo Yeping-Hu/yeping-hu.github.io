@@ -11,7 +11,7 @@ body, td {
 }
 </style>
 
-[10] <u>Scenario-Transferable Semantic Graph Reasoning for Interaction-Aware Probabilistic Prediction</u><br />		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Yeping Hu**, Wei Zhan, and Masayoshi Tomizuka<br />		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2020, (in submission)* [[arXiv](http://arxiv.org/abs/2004.03053)]{:target="_blank"}
+[10] <u>Scenario-Transferable Semantic Graph Reasoning for Interaction-Aware Probabilistic Prediction</u><br />		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:gray">**Yeping Hu**, Wei Zhan, and Masayoshi Tomizuka</span><br />		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:gray">*2020 (in submission)*</span> [[arXiv](http://arxiv.org/abs/2004.03053){:target="_blank"}]
 
 [9]  <u>Interaction-aware Decision Making with Adaptive Strategies under Merging Scenarios</u><br />		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Yeping Hu**, Alireza Nakhaei, Masayoshi Tomizuka, and Kikuo Fujimura <br />		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2019 IEEE International Conference on Intelligent Robots and Systems (IROS)*<span style="color:red"> **(Best Paper Award Finalist)**</span> [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8968478){:target="_blank"}\]\[[video](https://youtu.be/2CTTFHDW1ec){:target="_blank"}\]
 
@@ -21,7 +21,7 @@ body, td {
 
 [6] <u>Multi-modal Probabilistic Prediction of Interactive Behavior via an Interpretable Model</u><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Yeping Hu**, Wei Zhan, Liting Sun, and Masayoshi Tomizuka<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2019 IEEE Intelligent Vehicles Symposium (IV)* \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8813796){:target="_blank"}\]
 
-[5] <u>Generic Tracking and Probabilistic Prediction Framework and Its Application in Autonomous Driving</u><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jiachen Li, Wei Zhan, **Yeping Hu**, and Masayoshi Tomizuka<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2018 IEEE Transactions on Intelligent Transportation Systems (T-ITS)* [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8789525)]{:target="_blank"}
+[5] <u>Generic Tracking and Probabilistic Prediction Framework and Its Application in Autonomous Driving</u><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jiachen Li, Wei Zhan, **Yeping Hu**, and Masayoshi Tomizuka<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2018 IEEE Transactions on Intelligent Transportation Systems (T-ITS)* [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8789525){:target="_blank"}]
 
 [4] <u>Probabilistic Prediction of Vehicle Semantic Intention and Motion</u><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Yeping Hu**, Wei Zhan, and Masayoshi Tomizuka<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2018 IEEE Intelligent Vehicles Symposium (IV)* <span style="color:red"> **(Best Student Paper)**</span> \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8500419){:target="_blank"}\]\[[video](https://youtu.be/6A3Hl-mRhbI){:target="_blank"}\]
 
