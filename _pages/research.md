@@ -10,7 +10,7 @@ My research consists of <u>behavioral prediction</u>, <u>motion planning</u> and
 <div style="text-align: justify">My research goal is to develop reliable prediction algorithms that can be used on the autonomous vehicle or other autonomous agents.  A reliable algorithm, from my perspective, should have the following properties: stable, interpretable, and adaptable. In fact, although motion planning and decision making are lower modules of prediction, it is important to consider the integration and relationships among these modules while formulating the prediction problem. Only in this way, can we make sure that the predicted results are useful and capable of providing positive effects on the subsequent modules of the autonomous driving system. </div>
 ## Behavioral Prediction
 
-- **Zero-shot scene-transferable predictor via semantic graph reasoning** [[paper]](http://arxiv.org/abs/2004.03053){:target="_blank"}
+- **Zero-shot scene-transferable predictor via semantic graph reasoning** [[paper]](http://arxiv.org/abs/2004.03053){:target="_blank"}[[video]](https://youtu.be/ku_UWa86nYQ){:target="_blank"}
 
   <img style="float: left; margin-right: 40px;" src="../images/semantic_graph.png" width="300" />
 

@@ -10,8 +10,7 @@ body, td {
    font-size: 16px;
 }
 </style>
-
-[10] <u>Scenario-Transferable Semantic Graph Reasoning for Interaction-Aware Probabilistic Prediction</u><br />		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:gray">**Yeping Hu**, Wei Zhan, and Masayoshi Tomizuka</span><br />		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:gray">*2020 (in submission)*</span> [[arXiv](http://arxiv.org/abs/2004.03053){:target="_blank"}]
+[10] <u>Scenario-Transferable Semantic Graph Reasoning for Interaction-Aware Probabilistic Prediction</u><br />		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:gray">**Yeping Hu**, Wei Zhan, and Masayoshi Tomizuka</span><br />		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:gray">*2020 (in submission)*</span> [[arXiv](http://arxiv.org/abs/2004.03053){:target="_blank"}]\[[video](https://youtu.be/ku_UWa86nYQ){:target="_blank"}\]
 
 [9]  <u>Interaction-aware Decision Making with Adaptive Strategies under Merging Scenarios</u><br />		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:gray">**Yeping Hu**, Alireza Nakhaei, Masayoshi Tomizuka, and Kikuo Fujimura </span><br />		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:gray">*2019 IEEE International Conference on Intelligent Robots and Systems (IROS)*</span><span style="color:red"> **(Best Paper Award Finalist)**</span> [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8968478){:target="_blank"}\]\[[video](https://youtu.be/2CTTFHDW1ec){:target="_blank"}\]
 
