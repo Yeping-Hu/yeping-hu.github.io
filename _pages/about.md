@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year Ph.D. candidate in the Department of Mechanical Engineering, University of California, Berkeley, CA, USA. I am currently a member of the [Mechanical Systems Control Lab](https://msc.berkeley.edu){:target="_blank"} and I am advised by [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/){:target="_blank"}. 
+I am a final year Ph.D. candidate in the Department of Mechanical Engineering, University of California, Berkeley, CA, USA. I am currently a member of the [Mechanical Systems Control Lab](https://msc.berkeley.edu){:target="_blank"} and I am advised by [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/){:target="_blank"}. 
 
 My research interests include **behavioral prediction**, **decision making** and **motion planning** for intelligent agents such as autonomous vehicles and robots. I've developed various approaches based on the concepts of probabilistic models, machine learning, and optimization.
 
