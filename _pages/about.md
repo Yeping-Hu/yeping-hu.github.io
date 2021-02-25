@@ -12,6 +12,8 @@ I am a final year Ph.D. candidate in the Department of Mechanical Engineering, U
 
 My research interests include **behavioral prediction**, **decision making** and **motion planning** for intelligent agents such as autonomous vehicles and robots. I've developed various approaches based on the concepts of probabilistic models, machine learning, and optimization.
 
+I am open to research discussion and collaboration, please feel free to get in touch :)
+
 ## Education
 
 <img style="float: left; margin-right: 50px" src="/images/UCB.jpg" width="15%">
