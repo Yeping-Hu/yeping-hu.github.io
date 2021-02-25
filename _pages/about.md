@@ -23,7 +23,7 @@ My research interests include **behavioral prediction**, **decision making** and
 <img style="float: left; margin-right: 50px;" src="/images/UIUC.jpg" width="15%">
 - **B.S. — University of Illinois at Urbana-Champaign, 2016**
   - Major: Mechanical Engineering
-  - Minor: Electrical Engineering
+  - Minor: Electrical and Computer Engineering
 <br clear="left"/>
 
 ## Recent News
