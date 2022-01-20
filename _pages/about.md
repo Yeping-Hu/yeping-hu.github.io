@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a Machine Learning Postdoctoral Research Staff Member at Lawrence Livermore National Laboratory. I received my Ph.D. degree at the University of California, Berkeley, where I was a member of the [Mechanical Systems Control Lab](https://msc.berkeley.edu){:target="_blank"} and I was advised by [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/){:target="_blank"}. 
 
-My research interests include **behavioral prediction**, **decision making** and **motion planning** for intelligent agents such as autonomous vehicles and robots. I've developed various approaches based on the concepts of probabilistic models, machine learning, and optimization.
+My research interests include: 1. Improvements to **machine learning capabilities** for general applications; 2. **Behavioral prediction**, **decision making** and **motion planning** for intelligent agents (e.g. autonomous vehicles & robots). I've developed various approaches based on the concepts of graph neural networks, probabilistic models, reinforcement learning, and optimization.
 
 I am open to research discussion and collaboration, please feel free to get in touch :)
 
