@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year Ph.D. candidate in the Department of Mechanical Engineering, University of California, Berkeley, CA, USA. I am currently a member of the [Mechanical Systems Control Lab](https://msc.berkeley.edu){:target="_blank"} and I am advised by [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/){:target="_blank"}. 
+I am currently a Machine Learning Postdoctoral Research Staff Member at Lawrence Livermore National Laboratory. I received my Ph.D. degree at the University of California, Berkeley, where I was a member of the [Mechanical Systems Control Lab](https://msc.berkeley.edu){:target="_blank"} and I was advised by [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/){:target="_blank"}. 
 
 My research interests include **behavioral prediction**, **decision making** and **motion planning** for intelligent agents such as autonomous vehicles and robots. I've developed various approaches based on the concepts of probabilistic models, machine learning, and optimization.
 
@@ -17,20 +17,21 @@ I am open to research discussion and collaboration, please feel free to get in t
 ## Education
 
 <img style="float: left; margin-right: 50px" src="/images/UCB.jpg" width="15%">
-- **Ph.D. — University of California, Berkeley, 2021 (expected)**
+- **Ph.D. — University of California, Berkeley, 2021**
   - Major: Control          
   - Minor: Machine Learning, Optimization
-<br clear="left"/>
+  <br clear="left"/>
 
 <img style="float: left; margin-right: 50px;" src="/images/UIUC.jpg" width="15%">
 - **B.S. — University of Illinois at Urbana-Champaign, 2016**
   - Major: Mechanical Engineering
   - Minor: Electrical and Computer Engineering
-<br clear="left"/>
+  <br clear="left"/>
 
 ## Recent News
 
-- 04/2020: Check out our [recent work](http://arxiv.org/abs/2004.03053){:target="_blank"} on scene-transferable predictor using semantic graph reasoning ! 
-- 08/2019: My paper accepted by IROS 2019 has been chosen as a finalist for the "Best Paper Award" ! I'll make a presentation at the [IROS conference](https://www.iros2019.org){:target="_blank"} this November in Macau, China. 
-- 07/2019: Two of my papers are accepted by the [ITSC 2019 conference](https://www.itsc2019.org){:target="_blank"} ! I'll present them at the conference this October in Auckland, New Zealand .  
+- 12/2021: [One paper](https://arxiv.org/abs/2112.06129) on online adaptation is accepted by 2022 AAAI [Human-Centric Self-Supervised Learning Workshop](https://hcssl.github.io/AAAI-22/) !
+- 10/2021: [One paper](https://arxiv.org/pdf/2111.00788) on hierarchical, adaptable and transferable networks is accepted by 2021 NeurIPS [Machine Learning for Autonomous Driving Workshop ](https://ml4ad.github.io/) and it is selected for a spotlight talk ! 
+- 10/2021: [One paper](https://arxiv.org/pdf/2112.02093.pdf) on causal-based domain generalization is accepted by 2021 NeurIPS [Distribution Shifts Workshop](https://sites.google.com/view/distshift2021) !
+- 05/2021: Joined Lawrence Livermore National Laboratory as a Postdoctoral Researcher ! 
 
