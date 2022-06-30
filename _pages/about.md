@@ -30,9 +30,9 @@ I am open to research discussion and collaboration, please feel free to get in t
 
 ## Recent News
 
-- 6/2022: One paper on generalizability analysis is accepted by **2022 IROS**!
-- 6/2022: One paper on reactive simulation is accepted by **2022 ITSC**!
-- 2/2022: One paper on domain generalization is accepted by **2022  ICRA**!
+- 06/2022: One paper on generalizability analysis is accepted by **2022 IROS**!
+- 06/2022: One paper on reactive simulation is accepted by **2022 ITSC**!
+- 02/2022: One paper on domain generalization is accepted by **2022  ICRA**!
 - 12/2021: [One paper](https://arxiv.org/abs/2112.06129){:target="_blank"} on online adaptation is accepted by **2022 AAAI** [Human-Centric Self-Supervised Learning Workshop](https://hcssl.github.io/AAAI-22/){:target="_blank"}!
 - 10/2021: [One paper](https://arxiv.org/pdf/2111.00788){:target="_blank"} on hierarchical, adaptable and transferable networks is accepted by **2021 NeurIPS** [Machine Learning for Autonomous Driving Workshop ](https://ml4ad.github.io/){:target="_blank"} and it is selected for a <u>spotlight talk</u>! 
 - 10/2021: [One paper](https://arxiv.org/pdf/2112.02093){:target="_blank"} on causal-based domain generalization is accepted by **2021 NeurIPS** [Distribution Shifts Workshop](https://sites.google.com/view/distshift2021){:target="_blank"}!

@@ -10,6 +10,10 @@ body, td {
    font-size: 16px;
 }
 </style>
+
+
+[14] <u>Causal-based Time Series Domain Generalization for Vehicle Intention Prediction</u><br />&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:gray"> **Yeping Hu**, Xiaogang Jia, Masayoshi Tomizuka, and Wei Zhan</span><br /><span style="color:gray">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2022 IEEE International Conference on Robotics and Automation (ICRA)*
+
 [13] <u>Online Adaptation of Neural Network Models by Modified Extended Kalman Filter for Customizable and Transferable Driving Behavior Prediction</u><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:gray">Letian Wang, **Yeping Hu**, and Changliu Liu</span><br /><span style="color:gray">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2022 AAAI Conference on Artificial Intelligence, workshop on Human-Centric Self-Supervised Learning*</span> [[paper](https://arxiv.org/abs/2112.06129){:target="_blank"}]
 
 [12] <u>Causal-based Time Series Domain Generalization for Vehicle Intention Prediction</u><br />&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:gray"> **Yeping Hu**, Xiaogang Jia, Masayoshi Tomizuka, and Wei Zhan</span><br /><span style="color:gray">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2021 NeurIPS Conference on Neural Information Processing Systems, workshop on Distribution Shifts*</span> [[paper](https://arxiv.org/abs/2112.02093){:target="_blank"}]
