@@ -10,7 +10,7 @@ body, td {
    font-size: 16px;
 }
 </style>
-[16] <u>Analyzing and Enhancing Closed-loop Stability in Reactive Simulation</u><br />&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:gray"> Juanwu Lu, Wei Zhan, Masayoshi Tomizuka, and **Yeping Hu**</span><br /><span style="color:gray">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2022 IEEE International Conference on Robotics and Automation (IROS)* [paper]
+[16] <u>Generalizability Analysis of Graph-based Trajectory Predictor with Vectorized Representation</u><br />&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:gray"> Juanwu Lu, Wei Zhan, Masayoshi Tomizuka, and **Yeping Hu**</span><br /><span style="color:gray">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2022 IEEE International Conference on Robotics and Automation (IROS)* [paper]
 
 [15] <u>Analyzing and Enhancing Closed-loop Stability in Reactive Simulation</u><br />&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:gray"> Wei-Jer Chang, **Yeping Hu**, Chenran Li, Wei Zhan, and Masayoshi Tomizuka</span><br /><span style="color:gray">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2022 IEEE International Conference on Intelligent Transportation Systems (ITSC)* [paper]
 
