@@ -7,8 +7,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Coursework"
-    url: /coursework/    
+  # - title: "Coursework"
+  #   url: /coursework/    
 
   - title: "Contact"
     url: /contact/   

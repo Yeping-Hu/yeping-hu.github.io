@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Machine Learning Postdoctoral Research Staff Member at Lawrence Livermore National Laboratory. I received my Ph.D. degree at the University of California, Berkeley, where I was a member of the [Mechanical Systems Control Lab](https://msc.berkeley.edu){:target="_blank"} and I was advised by [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/){:target="_blank"}. 
+I am currently a Machine Learning Research Scientist at Lawrence Livermore National Laboratory. I received my Ph.D. degree at the University of California, Berkeley, where I was a member of the [Mechanical Systems Control Lab](https://msc.berkeley.edu){:target="_blank"} and I was advised by [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/){:target="_blank"}. 
 
-My research interests include: 1. Improvements to **machine learning capabilities** for general applications; 2. **Behavioral prediction**, **decision making** and **motion planning** for intelligent agents (e.g. autonomous vehicles & robots). I've developed various approaches based on the concepts of graph neural networks, probabilistic models, reinforcement learning, and optimization.
+My research interests include: 1. Intersection of physics simulation and ML; 2. Improvements towards ML capabilities (e.g. domain generalization, domain adaptation); 3. **Behavioral prediction**, **decision making** and **motion planning** for intelligent agents (e.g. autonomous vehicles & robots). I've developed various approaches based on the concepts of graph neural networks, probabilistic models, reinforcement learning, and optimization.
 
 I am open to research discussion and collaboration, please feel free to get in touch :)
 
@@ -30,11 +30,15 @@ I am open to research discussion and collaboration, please feel free to get in t
 
 ## Recent News
 
+- 03/2023: Two papers on physically-based simulation are accepted by **2023 ICLR** [Physics for Machine Learning Workshop](https://physics4ml.github.io/){:target="_blank"}!
+- 02/2023: Selected as [**Rising Stars**](https://risingstars.oden.utexas.edu/){:target="_blank"} in Computational & Data Sciences!
+- 08/2022: Recipient of the LLNL **E-Program Bronze Award** for Individual Achievement!
 - 06/2022: One paper on generalizability analysis is accepted by **2022 IROS**!
 - 06/2022: One paper on reactive simulation is accepted by **2022 ITSC**!
 - 02/2022: One paper on domain generalization is accepted by **2022  ICRA**!
 - 12/2021: [One paper](https://arxiv.org/abs/2112.06129){:target="_blank"} on online adaptation is accepted by **2022 AAAI** [Human-Centric Self-Supervised Learning Workshop](https://hcssl.github.io/AAAI-22/){:target="_blank"}!
 - 10/2021: [One paper](https://arxiv.org/pdf/2111.00788){:target="_blank"} on hierarchical, adaptable and transferable networks is accepted by **2021 NeurIPS** [Machine Learning for Autonomous Driving Workshop ](https://ml4ad.github.io/){:target="_blank"} and it is selected for a <u>spotlight talk</u>! 
 - 10/2021: [One paper](https://arxiv.org/pdf/2112.02093){:target="_blank"} on causal-based domain generalization is accepted by **2021 NeurIPS** [Distribution Shifts Workshop](https://sites.google.com/view/distshift2021){:target="_blank"}!
+<!---
 - 05/2021: Joined Lawrence Livermore National Laboratory as a Postdoctoral Researcher! 
-
+-->
