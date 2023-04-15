@@ -59,7 +59,7 @@ Both physics simulations and robotics have physical systems that are modeled mat
 
   <div style="text-align: justify">We proposed a Semantic-based Intention and Motion Prediction (SIMP) method, which can be adapted to any driving scenarios by using semantic-defined vehicle behaviors. It utilizes a probabilistic framework based on deep neural network to estimate the intentions, final locations, and the corresponding time information for surrounding vehicles. An exemplar real-world scenario was used to implement and examine the proposed method.</div><br clear="left"/>
 
-## Decision Making
+## Motion Planning & Decision Making
 
 - **Strategic Decision Making:** [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8968478){:target="_blank"}\]\[[video](https://youtu.be/2CTTFHDW1ec){:target="_blank"}\]
 
