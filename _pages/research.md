@@ -25,7 +25,7 @@ Both physics simulations and robotics have physical systems that are modeled mat
 
 ## Behavioral Prediction
 
-- **Causal-based Time Series Domain Generalization**
+- **Causal-based Time Series Domain Generalization** [[paper1]](https://arxiv.org/pdf/2112.02093.pdf){:target="_blank"} [[paper2]](https://ieeexplore.ieee.org/abstract/document/9812188){:target="_blank"} 
   
   <img style="float: left; margin-right: 40px;" src="../images/CTSDG.png" width="300" />
 
