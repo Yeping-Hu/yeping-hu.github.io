@@ -5,11 +5,11 @@ author_profile: true
 
 ---
 
-The goal of my research is to create algorithms that are both reliable and efficient, with the desired properties of **adaptability/generalizability**, **interpretability**, **scalability**, and **stability**. These properties are critical for the successful application of algorithms in complex systems. My current focus is on developing and applying these algorithms in two areas: **computational physics* and **robotics**.
+The goal of my research is to create algorithms that are both reliable and efficient, with the desired properties of **adaptability/generalizability**, **interpretability**, **scalability**, and **stability**. These properties are critical for the successful application of algorithms in complex systems. My current focus is on developing and applying these algorithms in two areas: **computational physics** and **robotics**.
 
-Both computational physics and robotics involve mathematical modeling and simulation of physical systems. However, these domains differ in their primary objectives. Computational physics seeks to comprehend the behavior of physical systems under various conditions, while robotics aims to develop autonomous machines that can perform specific tasks. Despite their goals and applications differ, there are significant challenges that overlap between the two domains. Developing algorithms that can be applied in both areas can provide insights into the underlying mathematical principles governing complex systems, leading to more efficient and reliable algorithms for both computational physics and robotics.
+Both computational physics and robotics involve mathematical modeling and simulation of physical systems. However, these domains differ in their primary objectives. Computational physics seeks to comprehend the behavior of physical systems under various conditions, while robotics aims to develop autonomous machines that can perform specific tasks, often involving interactions with the physical environment and humans. Despite their goals differ, there are significant challenges that overlap between the two domains. Developing algorithms that can be applied in both areas can provide insights into the underlying mathematical principles governing complex systems, leading to more efficient and reliable algorithms for both computational physics and robotics.
 
-## Physics Simulation
+## Computational Physics
 
 - **Predicting Fluid Dynamics in Physical-informed Mesh-reduced Space** [[paper]](https://openreview.net/pdf?id=EPyS7FHMIK){:target="_blank"}
 
