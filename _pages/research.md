@@ -29,13 +29,13 @@ Both physics simulations and robotics have physical systems that are modeled mat
   
   <img style="float: left; margin-right: 40px;" src="../images/CTSDG.png" width="300" />
 
-  Generalization capability to unseen domains is crucial for prediction models when autonomous vehicles are deployed in the real world. In particular, we aim to address the domain generalization problem for vehicle intention prediction tasks and a causal-based time series domain generalization (CTSDG) model is proposed. We construct a structural causal model for vehicle intention prediction tasks to learn an invariant representation of input driving data for domain generalization. We further integrate a recurrent latent variable model into our structural causal model to better capture temporal latent dependencies from time-series input data.
+  <div style="text-align: justify">Generalization capability to unseen domains is crucial for prediction models when autonomous vehicles are deployed in the real world. In particular, we aim to address the domain generalization problem for vehicle intention prediction tasks and a causal-based time series domain generalization (CTSDG) model is proposed. We construct a structural causal model for vehicle intention prediction tasks to learn an invariant representation of input driving data for domain generalization. We further integrate a recurrent latent variable model into our structural causal model to better capture temporal latent dependencies from time-series input data.
 
 - **Zero-shot Scene-transferable Predictor via Semantic Graph Reasoning** [[paper]](http://arxiv.org/abs/2004.03053){:target="_blank"}[[video]](https://youtu.be/ku_UWa86nYQ){:target="_blank"}
 
   <img style="float: left; margin-right: 40px;" src="../images/semantic_graph.png" width="300" />
 
-  Since autonomous vehicles need to navigate in dynamically changing environments, they are expected to make
+  <div style="text-align: justify">Since autonomous vehicles need to navigate in dynamically changing environments, they are expected to make
   accurate predictions regardless of where they are and what driving circumstances they encountered. We propose a scenario-transferable and interaction-aware probabilistic prediction algorithm based on semantic graph reasoning, which predicts behaviors of selected agents. We put forward generic representations for various environment information and utilize them as building blocks to construct their spatio-temporal structural relations. We then take the advantage of these structured representations to develop a flexible and transferable prediction algorithm, where the predictor can be directly used under unforeseen driving circumstances that are completely different from training scenarios. 
 
 - **Incorporate Planning-based Method into Prediction:** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8917105){:target="_blank"}
