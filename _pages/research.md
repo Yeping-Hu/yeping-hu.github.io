@@ -5,9 +5,21 @@ author_profile: true
 
 ---
 
-My research consists of <u>behavioral prediction</u>, <u>motion planning</u> and <u>decision making</u>. 
+<!---My research consists of <u>behavioral prediction</u>, <u>motion planning</u> and <u>decision making</u>.
+My research goal is to develop reliable prediction algorithms that can be used on the autonomous vehicle or other autonomous agents.  A reliable algorithm, from my perspective, should have the following properties: stable, interpretable, and adaptable. In fact, although motion planning and decision making are lower modules of prediction, it is important to consider the integration and relationships among these modules while formulating the prediction problem. Only in this way, can we make sure that the predicted results are useful and capable of providing positive effects on the subsequent modules of the autonomous driving system. </div> --->
 
-<div style="text-align: justify">My research goal is to develop reliable prediction algorithms that can be used on the autonomous vehicle or other autonomous agents.  A reliable algorithm, from my perspective, should have the following properties: stable, interpretable, and adaptable. In fact, although motion planning and decision making are lower modules of prediction, it is important to consider the integration and relationships among these modules while formulating the prediction problem. Only in this way, can we make sure that the predicted results are useful and capable of providing positive effects on the subsequent modules of the autonomous driving system. </div>
+<div style="text-align: justify">The goal of my research is to create algorithms that are both reliable and efficient, with the desired properties of **adaptability/generalizability**, **interpretability**, **scalability**, and **stability**. These properties are critical for the successful application of algorithms in complex systems. My current focus is on developing and applying these algorithms in two areas: <span style="color:red"> **(physics simulations)**</span> and <span style="color:red"> **(robotics)**</span>.
+
+Both physics simulations and robotics have physical systems that are modeled mathematically, and both involve interactions within the system. However, these domains differ in their primary objectives. Physics simulations aim to comprehend the behavior of physical systems, such as fluids or particles, under varying conditions. In contrast, robotics seeks to develop machines that can carry out tasks autonomously, often requiring interactions with the physical environment and humans. Despite these differences, there is significant overlap in the challenges encountered in both physics simulations and robotics. By designing algorithms that can be applied in both domains, we can gain a deeper understanding of the underlying mathematical principles that govern these systems and develop more efficient and effective methods for manipulation and control.</div>
+
+## Physics Simulation
+
+- **Predicting Fluid Dynamics in Physical-informed Mesh-reduced Space** [[paper]](https://openreview.net/pdf?id=EPyS7FHMIK){:target="_blank"}
+
+  <img src="../images/MGN.png" width="800"  >
+
+  <div style="text-align: justify">For computational fluid dynamics, there is a considerable interest in using neural networks for accelerating simulations. However, these learning-based models suffer from scalability issues when training on high-dimensional and highresolution simulation data generated for real-world applications. In this work, we study the problem of improving accuracy of desired physical properties using graph learning models for learning complex fluid dynamics, while operating on mesh-reduced space. We design several tailored modules to incorporate physicalinformed knowledge into a two-stage prediction model, which directs the learning process to focus more on the region of interest (ROI). Prediction will then be made in a mesh-reduced space, which helps reduce computational costs while preserving important physical properties.
+
 ## Behavioral Prediction
 
 - **Zero-shot scene-transferable predictor via semantic graph reasoning** [[paper]](http://arxiv.org/abs/2004.03053){:target="_blank"}[[video]](https://youtu.be/ku_UWa86nYQ){:target="_blank"}
