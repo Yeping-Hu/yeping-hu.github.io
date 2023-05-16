@@ -30,7 +30,7 @@ I am open to research discussion and collaboration, please feel free to get in t
 
 ## Recent News
 
-- 05/2023: One paper on machine learning for fluid dynamics modeling is accepted by [**2023 KDD**](https://kdd.org/kdd2023/){:target="_blank"}!
+- 05/2023: One paper on ML for fluid dynamics modeling is accepted by **2023 KDD**!
 - 03/2023: Two papers on physically-based simulation are accepted by **2023 ICLR** [Physics for Machine Learning Workshop](https://physics4ml.github.io/){:target="_blank"}!
 - 02/2023: Selected as [**Rising Stars**](https://risingstars.oden.utexas.edu/){:target="_blank"} in Computational & Data Sciences!
 - 08/2022: Received the LLNL **E-Program Bronze Award** for Individual Achievement!
