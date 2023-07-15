@@ -29,7 +29,7 @@ I am open to research discussion and collaboration, please feel free to get in t
   <br clear="left"/>
 
 ## Recent News
-- 07/2023: Checkout our [promotion video](https://youtu.be/R_CKSwgW5lg){:target="_blank"} for our accepted 2023 KDD paper! 
+- 07/2023: Check out our [**promotion video**](https://youtu.be/R_CKSwgW5lg){:target="_blank"} for our accepted 2023 KDD paper! 
 - 06/2023: One paper on driving behavior generation is accepted by **RA-L**!
 - 05/2023: One paper on ML for dynamic system modeling is accepted by **2023 KDD**!
 - 03/2023: Two papers on physically-based simulation are accepted by **2023 ICLR** [Physics for Machine Learning Workshop](https://physics4ml.github.io/){:target="_blank"}!
