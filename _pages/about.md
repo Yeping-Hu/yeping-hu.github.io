@@ -9,9 +9,9 @@ redirect_from:
 
 I am currently a Machine Learning Research Scientist at Lawrence Livermore National Laboratory. I received my Ph.D. degree at the University of California, Berkeley, where I was a member of the [Mechanical Systems Control Lab](https://msc.berkeley.edu){:target="_blank"} and I was advised by [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/){:target="_blank"}. 
 
-I have served as PI and Co-PI in several Cooperative Research and Development Agreements (CRADAs) funded by the Department of Energy's Advanced Manufacturing Office (AMO). These collaborations involve working with energy-intensive industries with the aim of minimizing energy consumption. My interests encompass the application of AI in scientific domains, particularly at the intersection of physics simulation and machine learning. I am focused on enhancing machine learning capabilities, such as improving generalization under various conditions, and developing surrogate models that leverage High-Performance Computing (HPC).
+I have served as PI and Co-PI in several Cooperative Research and Development Agreements (CRADAs) funded by the Department of Energy's Advanced Manufacturing Office (AMO). These collaborations involve working with energy-intensive industries with the aim of minimizing energy consumption. My interests encompass the application of AI in scientific domains, particularly at the intersection of physics simulation and machine learning. I am focused on enhancing machine learning capabilities, such as improving generalization under various conditions, and developing accurate surrogate models that leverage High-Performance Computing (HPC).
 
-I am open to research discussion and collaboration, please feel free to get in touch :)
+Our team is always actively pursuing research collaborations. Please feel free to reach out if you are interested.
 
 ## Education
 
@@ -38,8 +38,3 @@ I am open to research discussion and collaboration, please feel free to get in t
 - 06/2022: One paper on generalizability analysis is accepted by **IROS 2022**!
 - 06/2022: One paper on reactive simulation is accepted by **ITSC 2022**!
 - 02/2022: One paper on domain generalization is accepted by **ICRA 2022**!
-<!---
-- 12/2021: [One paper](https://arxiv.org/abs/2112.06129){:target="_blank"} on online adaptation is accepted by **2022 AAAI** [Human-Centric Self-Supervised Learning Workshop](https://hcssl.github.io/AAAI-22/){:target="_blank"}!
-- 10/2021: [One paper](https://arxiv.org/pdf/2111.00788){:target="_blank"} on hierarchical, adaptable and transferable networks is accepted by **2021 NeurIPS** [Machine Learning for Autonomous Driving Workshop ](https://ml4ad.github.io/){:target="_blank"} and it is selected for a <u>spotlight talk</u>! 
-- 10/2021: [One paper](https://arxiv.org/pdf/2112.02093){:target="_blank"} on causal-based domain generalization is accepted by **2021 NeurIPS** [Distribution Shifts Workshop](https://sites.google.com/view/distshift2021){:target="_blank"}!
--->
