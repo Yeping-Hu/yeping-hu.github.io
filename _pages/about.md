@@ -28,7 +28,7 @@ I have served as PI and Co-PI in several Cooperative Research and Development Ag
   <br clear="left"/>
 
 ## Recent News
-- 01/2023: One paper towards creating generalizable and interpretable prediction model is accecpted by **AISTATS 2024**!
+- 01/2024: One paper towards creating generalizable and interpretable prediction model is accecpted by **AISTATS 2024**!
 - 07/2023: Check out our [**promotion video**](https://youtu.be/R_CKSwgW5lg){:target="_blank"} for our accepted 2023 KDD paper! 
 - 06/2023: One paper on driving behavior generation is accepted by **RA-L**!
 - 05/2023: One paper on ML for dynamic system modeling is accepted by **KDD 2023**!
