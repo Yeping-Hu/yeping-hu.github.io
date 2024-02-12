@@ -9,9 +9,9 @@ redirect_from:
 
 I am currently a Machine Learning Research Scientist at Lawrence Livermore National Laboratory. I received my Ph.D. degree at the University of California, Berkeley, where I was a member of the [Mechanical Systems Control Lab](https://msc.berkeley.edu){:target="_blank"} and I was advised by [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/){:target="_blank"}. 
 
-I have served as PI and Co-PI in several Cooperative Research and Development Agreements (CRADAs) funded by the Department of Energy's Advanced Manufacturing Office (AMO). These collaborations involve working with energy-intensive industries with the aim of minimizing energy consumption. My interests encompass the application of AI in scientific domains, particularly at the intersection of physics simulation and machine learning. I am focused on enhancing machine learning capabilities, such as improving generalization under various conditions, and developing accurate surrogate models that leverage High-Performance Computing (HPC).
+My interests encompass the application of AI in scientific domains, particularly at the intersection of physics simulation and machine learning. I am focused on enhancing machine learning capabilities, such as improving generalization under various conditions, and developing accurate surrogate models that leverage High-Performance Computing (HPC).
 
-Our team is always actively pursuing research collaborations. Please feel free to reach out if you are interested.
+I have served as PI and Co-PI in several Cooperative Research and Development Agreements (CRADAs) funded by the Department of Energy's Advanced Manufacturing Office (AMO). These collaborations involve working with energy-intensive industries with the aim of minimizing energy consumption. Our team is always actively seeking research collaborations. Please feel free to reach out if you are interested.
 
 ## Education
 
