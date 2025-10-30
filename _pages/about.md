@@ -41,9 +41,3 @@ Our team is actively seeking research collaborations. Please feel free to reach 
 - 05/2023: One paper on ML for dynamic system modeling is accepted by **KDD 2023**!
 - 03/2023: Two papers on physically-based simulation are accepted by **ICLR 2023** [Physics for Machine Learning Workshop](https://physics4ml.github.io/){:target="_blank"}!
 - 02/2023: Selected as [**Rising Stars**](https://risingstars.oden.utexas.edu/){:target="_blank"} in Computational & Data Sciences!
-<!--
-- 08/2022: Received the LLNL Global Security **Bronze Award** for Individual Achievement!
-- 06/2022: One paper on generalizability analysis is accepted by **IROS 2022**!
-- 06/2022: One paper on reactive simulation is accepted by **ITSC 2022**!
-- 02/2022: One paper on domain generalization is accepted by **ICRA 2022**!
--->
