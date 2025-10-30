@@ -28,6 +28,10 @@ Our team is actively seeking research collaborations. Please feel free to reach 
   <br clear="left"/>
 
 ## Recent News
+- 09/2025: One [paper](https://arxiv.org/pdf/2509.10659?){:target="_blank"} on mesh graph based surrogate modeling for dynamic systems is accepted by **TMLR**!
+- 07/2025: One [paper](https://arxiv.org/pdf/2507.16069){:target="_blank"} on interpreting CFD surrogates is accepted by the XAI workshop on **IJCAI 2025**!
+- 01/2025: One [paper](https://ieeexplore.ieee.org/abstract/document/10842457){:target="_blank"} on innovative visual localization system for robotic agents is accepted by **T-RO**!
+- 12/2024: Two papers on post-combustion carbon capture surrogate modeling are accepted by Frontier in AI! [[paper1]](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1441934/full){:target="_blank"} [[paper2]](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1441985/full){:target="_blank"}
 - 06/2024: Recieve the LLNL Global Security **Silver Award** for excellent management and execution of the [HPC4EI](https://hpc4energyinnovation.llnl.gov/) project!
 - 05/2024: Our HPC4EI project with ArcelorMittal received **2nd place** in AI category for the best Emerging Technology Awards, 2024!
 - 05/2024: Promoted to Senior Staff Scientist!
@@ -37,7 +41,9 @@ Our team is actively seeking research collaborations. Please feel free to reach 
 - 05/2023: One paper on ML for dynamic system modeling is accepted by **KDD 2023**!
 - 03/2023: Two papers on physically-based simulation are accepted by **ICLR 2023** [Physics for Machine Learning Workshop](https://physics4ml.github.io/){:target="_blank"}!
 - 02/2023: Selected as [**Rising Stars**](https://risingstars.oden.utexas.edu/){:target="_blank"} in Computational & Data Sciences!
+<!--
 - 08/2022: Received the LLNL Global Security **Bronze Award** for Individual Achievement!
 - 06/2022: One paper on generalizability analysis is accepted by **IROS 2022**!
 - 06/2022: One paper on reactive simulation is accepted by **ITSC 2022**!
 - 02/2022: One paper on domain generalization is accepted by **ICRA 2022**!
+-->
