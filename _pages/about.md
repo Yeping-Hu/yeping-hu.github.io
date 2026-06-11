@@ -27,7 +27,14 @@ Our team is actively seeking research collaborations. Please feel free to reach 
   - Minor: Electrical and Computer Engineering
   <br clear="left"/>
 
+## Open-Source Projects
+
+<a href="https://aiworkshoptracker.com" target="_blank"><img style="float: left; margin-right: 40px; margin-bottom: 10px;" src="/images/aiworkshoptracker.png" width="280"></a>
+- **[AI Workshop Tracker](https://aiworkshoptracker.com){:target="_blank"}** — a free, community-maintained website that gathers **workshop submission deadlines and accepted papers** across major AI and robotics conferences (NeurIPS, ICML, ICLR, CVPR, COLM, ICRA, IROS, CoRL) in one searchable place. Conference deadline trackers have long existed, but *workshops* never had one — this site fills that gap, currently tracking 650+ workshops with a fully automated, open-source data pipeline. Found a missing workshop? [Contributions are welcome](https://github.com/Yeping-Hu/ai-workshop-tracker){:target="_blank"}!
+  <br clear="left"/>
+
 ## Recent News
+- 06/2026: Launched [**AI Workshop Tracker**](https://aiworkshoptracker.com){:target="_blank"} — workshop deadlines and accepted papers across major AI & robotics conferences, all in one place. Check it out!
 - 09/2025: One [paper](https://arxiv.org/pdf/2509.10659?){:target="_blank"} on mesh graph based surrogate modeling for dynamic systems is accepted by **TMLR**!
 - 07/2025: One [paper](https://arxiv.org/pdf/2507.16069){:target="_blank"} on interpreting CFD surrogates is accepted by the XAI workshop on **IJCAI 2025**!
 - 01/2025: One [paper](https://ieeexplore.ieee.org/abstract/document/10842457){:target="_blank"} on innovative visual localization system for robotic agents is accepted by **T-RO**!
