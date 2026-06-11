@@ -29,7 +29,7 @@ Our team is actively seeking research collaborations. Please feel free to reach 
 
 ## Open-Source Projects
 
-<a href="https://aiworkshoptracker.com" target="_blank"><img style="float: left; margin-right: 40px; margin-bottom: 10px;" src="/images/aiworkshoptracker.png" width="280"></a>
+<a href="https://aiworkshoptracker.com" target="_blank"><img style="float: left; margin-right: 40px; margin-bottom: 10px; border: 1px solid #e2e8e5; border-radius: 8px;" src="/images/aiworkshoptracker.png" width="280"></a>
 - **[AI Workshop Tracker](https://aiworkshoptracker.com){:target="_blank"}** — a free, community-maintained website that gathers **workshop submission deadlines and accepted papers** across major AI and robotics conferences (NeurIPS, ICML, ICLR, CVPR, COLM, ICRA, IROS, CoRL) in one searchable place. Conference deadline trackers have long existed, but *workshops* never had one — this site fills that gap, currently tracking 650+ workshops with a fully automated, open-source data pipeline. Found a missing workshop? [Contributions are welcome](https://github.com/Yeping-Hu/ai-workshop-tracker){:target="_blank"}!
   <br clear="left"/>
 
